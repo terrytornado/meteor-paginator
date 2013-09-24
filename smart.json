@@ -1,8 +1,8 @@
 {
     "name": "paginator",
     "description": "Simple pagination for Meteor data",
-    "homepage": "https://github.com/TimHeckel/meteor-paginator",
-    "author": "Tim Heckel  (http://timheckel.com)",
+    "homepage": "https://github.com/terrytornado/meteor-paginator",
+    "author": "Tim Heckel  (http://timheckel.com) forked by terrytornado",
     "version": "0.0.8",
-    "git": "https://github.com/TimHeckel/meteor-paginator.git"
+    "git": "https://github.com/terrytornado/meteor-paginator.git"
 }
