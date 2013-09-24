@@ -1,6 +1,6 @@
 {
     "name": "paginator",
-    "description": "Simple pagination for Meteor data",
+    "description": "Simple pagination for Meteor data. Modified for working with bootstrap3",
     "homepage": "https://github.com/terrytornado/meteor-paginator",
     "author": "Tim Heckel  (http://timheckel.com) forked by terrytornado",
     "version": "0.0.8",
